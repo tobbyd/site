@@ -166,4 +166,4 @@ GLUON_LANGS ?= en de
 
 # Select ath10k Firmware for 802.11s
 
-GLUON_ATH10K_MESH ?= 11s
+GLUON_WLAN_MESH = 11s
